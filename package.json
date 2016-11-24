@@ -1,0 +1,16 @@
+{
+  "title": "Alt-Right to Neo-Nazi Firefox Converter",
+  "name": "alt-right-converter",
+  "version": "0.0.3",
+  "description": "A simple switch and replace",
+  "main": "index.js",
+  "author": "Matt Ford",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
